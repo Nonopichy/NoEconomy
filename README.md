@@ -5,5 +5,5 @@ Syntaxes:
  - add <cash|coin> %number% to %players%"
  - remove <cash|coin> %number% from %players%"
  - set <cash|coin> [of] %players% to %number%"
- - [get] <cash|coin> [of] %player%"
- - %players has <cash|coin> %number%"
+ - [get] <cash|coin> [of] %players%"
+ - %players% has <cash|coin> %number%"
